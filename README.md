@@ -7,4 +7,4 @@ Synthesizing an interpolated image between two real images can be achieved by a 
 
 ![Gentic-GAN](/example1_2.jpg?raw=true "Result of Genetic-GAN")
 ![Gentic-GAN](/example6_2.jpg?raw=true "Genetic-GAN Architecture")
-![Gentic-GAN](/example7_3.jpg?raw=true "Result of Genetic-GAN")
+![Gentic-GAN](/example7_2.jpg?raw=true "Result of Genetic-GAN")
